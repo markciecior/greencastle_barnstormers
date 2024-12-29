@@ -3,6 +3,7 @@ title: 'Using Hugo page bundles'
 description: 'Page bundles are an optional way to organize content within Hugo.'
 summary: "Page bundles are an optional way to organize page resources within Hugo. You can opt-in to using page bundles in Hugo Clarity with `usePageBundles` in your site configuration --- or in a page's front matter." # For the post in lists.
 date: '2022-03-24'
+draft: true
 aliases:
   - hugo-page-bundles
 author: 'Hugo Authors'
@@ -14,10 +15,6 @@ featureImage: 'https://images.unsplash.com/photo-1447069387593-a5de0862481e?ixli
 # thumbnail: 'thumbnail.jpg' # Image in lists of posts.
 # shareImage: 'share.jpg' # For SEO and social media snippets.
 
-categories:
-  - syntax
-tags:
-  - Hugo
 series:
   - Themes Guide
 ---
